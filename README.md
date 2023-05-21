@@ -1,2 +1,2 @@
 # udemy_web_course
-The Web Developer Bootcamp 2022 course on Udemy
+The Web Developer Bootcamp 2023 course on Udemy
